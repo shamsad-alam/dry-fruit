@@ -1,0 +1,53 @@
+/* styles.css */
+.landing-page {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .login-page,
+  .registration-page {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .login-page h2,
+  .registration-page h2 {
+    margin-bottom: 20px;
+  }
+  
+  .login-page input,
+  .registration-page input,
+  .login-page button,
+  .registration-page button {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  .product-page {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .product-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    grid-gap: 20px;
+  }
+  
+  .product-details-page {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .product-details {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
