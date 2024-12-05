@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/dry-fruit/static/css/main.e6c13ad2.css",
-    "main.js": "/dry-fruit/static/js/main.ec2cbe93.js",
+    "main.css": "/dry-fruit/static/css/main.e713742a.css",
+    "main.js": "/dry-fruit/static/js/main.5728fcec.js",
     "index.html": "/dry-fruit/index.html",
-    "main.e6c13ad2.css.map": "/dry-fruit/static/css/main.e6c13ad2.css.map",
-    "main.ec2cbe93.js.map": "/dry-fruit/static/js/main.ec2cbe93.js.map"
+    "main.e713742a.css.map": "/dry-fruit/static/css/main.e713742a.css.map",
+    "main.5728fcec.js.map": "/dry-fruit/static/js/main.5728fcec.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.ec2cbe93.js"
+    "static/css/main.e713742a.css",
+    "static/js/main.5728fcec.js"
   ]
 }
